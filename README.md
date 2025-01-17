@@ -1,3 +1,3 @@
 # Kokoa Clone 2025 update
 
-CSS는 개쩐다!
+HTML이랑 CSS는 엄청 재밌다!
